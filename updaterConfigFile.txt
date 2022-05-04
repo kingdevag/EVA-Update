@@ -1,0 +1,13 @@
+;aiu;
+
+[Update]
+Name = Eva
+ProductVersion = 1.1.0
+URL = https://www.dropbox.com/s/lbkll1xrzqp9y5a/Eva%20Setup.exe?dl=1
+Size = 5965067
+SHA256 = CA7212D6948A5D6A92023CFBB388676C664B9FB2BB692ABF7DEBB5AB532BEB29
+MD5 = b5c65ab763323db65edf2aba8e9828cd
+ServerFileName = Eva Setup.exe
+RegistryKey = HKUD\Software\K1ngDev\Eva\Version
+Version = 1.1.0
+UpdatedApplications = Eva(1.0.0-1.1.0)
